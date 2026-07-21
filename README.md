@@ -10,7 +10,7 @@ public class Main{
         int n1 = sc.nextInt();
 
         int[] arr1 = new int[n1];
-        System.out.println("Enter "+n1+" numbers for your first array");
+        System.out.println("Enter "+ n1 +" numbers for your first array");
         for(int i = 0; i < arr1.length; i++){
             arr1[i] = sc.nextInt();
         }
@@ -19,7 +19,7 @@ public class Main{
         int n2 = sc.nextInt();
 
         int[] arr2 = new int[n2];
-        System.out.println("Enter "+n2+" numbers for your second array");
+        System.out.println("Enter "+ n2 +" numbers for your second array");
         for(int i = 0; i < arr2.length; i++){
             arr2[i] = sc.nextInt();
         }
